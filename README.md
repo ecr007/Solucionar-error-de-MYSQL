@@ -1,0 +1,1 @@
+# Solucionar-error-de-MYSQL
